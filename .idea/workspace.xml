@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="62dbf9c1-1a1e-4a44-bc1b-96a94fb74e0e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Changes/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DormitoryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dbConnection.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2YbOPnEsFcM2jCfT7KPIJQJN8V9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.DormitoryManager.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Menu.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/learn/java/DormitoryManager",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62dbf9c1-1a1e-4a44-bc1b-96a94fb74e0e" name="Changes" comment="" />
+      <created>1700790793031</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700790793031</updated>
+      <workItem from="1700790794054" duration="13520000" />
+      <workItem from="1701239745797" duration="4699000" />
+      <workItem from="1701326104898" duration="16506000" />
+      <workItem from="1701423300357" duration="1737000" />
+      <workItem from="1701515871143" duration="838000" />
+      <workItem from="1701519312987" duration="3600000" />
+      <workItem from="1701537472830" duration="360000" />
+      <workItem from="1701574027144" duration="236000" />
+      <workItem from="1701580135704" duration="12660000" />
+      <workItem from="1701611271226" duration="1246000" />
+      <workItem from="1701650856003" duration="4240000" />
+      <workItem from="1701671421501" duration="14281000" />
+      <workItem from="1701689744593" duration="7307000" />
+      <workItem from="1701709674175" duration="1563000" />
+      <workItem from="1701711732087" duration="16961000" />
+      <workItem from="1701749281815" duration="3609000" />
+      <workItem from="1701771044113" duration="16000" />
+      <workItem from="1701772762703" duration="186000" />
+      <workItem from="1701775055974" duration="604000" />
+      <workItem from="1701832099187" duration="952000" />
+      <workItem from="1701834270880" duration="16863000" />
+      <workItem from="1701886250251" duration="13000" />
+      <workItem from="1701919387086" duration="12000" />
+      <workItem from="1701919408381" duration="3321000" />
+      <workItem from="1701931211142" duration="1104000" />
+      <workItem from="1701933363252" duration="1550000" />
+      <workItem from="1701962035058" duration="681000" />
+      <workItem from="1702033400364" duration="9005000" />
+      <workItem from="1702043206056" duration="50404000" />
+      <workItem from="1702115781673" duration="1860000" />
+      <workItem from="1702119504726" duration="44000" />
+      <workItem from="1702120501367" duration="1826000" />
+      <workItem from="1702122632120" duration="602000" />
+      <workItem from="1702123432086" duration="70000" />
+      <workItem from="1702123510255" duration="56000" />
+      <workItem from="1702123856840" duration="34000" />
+      <workItem from="1702123934557" duration="399000" />
+      <workItem from="1702124350635" duration="8197000" />
+      <workItem from="1702183135648" duration="1418000" />
+      <workItem from="1702295738837" duration="2403000" />
+      <workItem from="1702298154940" duration="122000" />
+      <workItem from="1702298285358" duration="294000" />
+      <workItem from="1702298588321" duration="5068000" />
+      <workItem from="1702549499068" duration="56000" />
+      <workItem from="1703821732191" duration="1300000" />
+      <workItem from="1704073002060" duration="34000" />
+      <workItem from="1704073062222" duration="719000" />
+      <workItem from="1704809895449" duration="675000" />
+      <workItem from="1704875793602" duration="15000" />
+      <workItem from="1709981318926" duration="1897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DormitoryManager.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DormitoryManager.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DormitoryManager.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/DormitoryManager.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
